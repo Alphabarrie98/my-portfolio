@@ -2,7 +2,7 @@ import React from "react";
 export default function Work() {
   return (
     <div id="education"
-      class="bg-[#EFF5F5] h-50 my-6 py-8 rounded-lg border-4">
+      class="bg-[green] h-50 my-6 py-8 rounded-lg border-4">
       <div class="flex justify-center">
         <h3 class="border-4 w-25  border-dashed px-4 font-bold text-md">Work</h3>
       </div>

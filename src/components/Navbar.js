@@ -58,7 +58,7 @@ export default function Navbar() {
               </div>
               <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
                 {/* <!-- Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" --> */}
-                <a href="/projects" class="
+                <a to="/projects" class="
                       inline-flex
                       items-center
                       border-b-2 border-indigo-500
@@ -68,7 +68,7 @@ export default function Navbar() {
                       font-medium
                       text-gray-900
                     ">Projects</a>
-                <a href="/blog" class="
+                <a to="/blog" class="
                       inline-flex
                       items-center
                       border-b-2 border-transparent
@@ -79,7 +79,7 @@ export default function Navbar() {
                       text-gray-500
                       hover:border-gray-300 hover:text-gray-700
                     ">Blog</a>
-                <a href="#" class="
+                <a to="#" class="
                       inline-flex
                       items-center
                       border-b-2 border-transparent
@@ -119,7 +119,7 @@ export default function Navbar() {
                   font-medium
                   text-indigo-700
                 ">Projects</a>
-            <a href="#" class="
+            <a to="#" class="
                   block
                   border-l-4 border-transparent
                   py-2
@@ -130,7 +130,7 @@ export default function Navbar() {
                   text-gray-500
                   hover:border-gray-300 hover:bg-gray-50 hover:text-gray-700
                 ">Blog</a>
-            <a href="#" class="
+            <a to="#" class="
                   block
                   border-l-4 border-transparent
                   py-2
