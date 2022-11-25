@@ -8,10 +8,10 @@ import {
   RouterProvider,
   Route,
 } from "react-router-dom";
-import Education from './components/Education';
-import Navbar from './components/Navbar';
+
 import Projects from './routes/projects';
 import Blog from './routes/blog';
+import Contact from './routes/contact';
 
 const router = createBrowserRouter([
   {
@@ -25,6 +25,10 @@ const router = createBrowserRouter([
   {
     path: "/blog",
     element: <Blog />
+  },
+  {
+    path: "/contact",
+    element: <Contact />
   }
 ]);
 
