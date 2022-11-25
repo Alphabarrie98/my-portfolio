@@ -26,7 +26,7 @@ export default function Contact() {
                   xl:text-[40px]
                   "
                                 >
-                                    GET IN TOUCH WITH ZORLA
+                                    <i>GET IN TOUCH WITH ZORLA</i>
                                 </h2>
                                 <p class="text-base text-body-color leading-relaxed mb-9">
                                     GET in touch with our group for any details you may like 
