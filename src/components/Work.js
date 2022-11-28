@@ -9,12 +9,18 @@ export default function Work() {
 
       <details class="px-6 py-4">
         <summary class="font-bold text-2xl text-gray-800">Self Employee business</summary>
-        <p> I'm a business man right now cause am not yet employ</p>
+        <p> I'm a business man right now cause am not yet employ
+            and for now am doing business to keep myself busy while 
+            there is no work availabe right now.
+            and currently a student of <b>BLUCREST UNIVERSITY COLLEGE OF LIBERIA</b>
+        </p>
       </details>
 
       <details class="px-6 py-4">
         <summary class="font-bold text-2xl text-gray-800">business details</summary>
-        <p> Am doing money exchange business at the duport road junction..</p>
+        <p> Am doing money exchange business at the duport road junction.
+            intersection. also act as an Sys. Admin
+        </p>
       </details>
 
       <details class="px-6 py-4">

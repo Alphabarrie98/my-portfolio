@@ -13,10 +13,14 @@ export default function Education() {
       </details>
 
       <details class="px-6 py-4">
-        <summary class="font-bold text-2xl text-gray-800">HTB University</summary>
-        <p>HTB Academy is a real "University for Hackers," where our users can learn step-by-step the cybersecurity
-          theory. All the way from guided to exploratory learning, learn how to hack and develop the hacking mindset
-          that will enable you to assess and create secure systems.</p>
+        <summary class="font-bold text-2xl text-gray-800">Start School at Salaam </summary>
+        <p>I start my studies career at the Salaam Islamic Senior Secondary School.
+          <br/> were i start from 4th Grade to 11th Grade before migrating to the Republic
+                of Liberia. there i start my 12th Grade
+                and now in university thanks to my mentor  
+                <b>  Safiatu B. Narteh</b>
+          <br/>
+        </p>
       </details>
 
       <details class="px-6 py-4">

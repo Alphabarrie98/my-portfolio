@@ -9,17 +9,32 @@ export default function Hobbies(){
         
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800"> Video Games</summary>
-          <p>I playing call of duty vidio Games </p>
+          <p> Games that i love playing are<br></br>
+              Football the PPSSPP Version<br></br>
+              Brother's in Army<br></br>
+              Temple Run
+
+
+           </p>
         </details>
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">sport</summary>
-          <p> Love playing football.</p>
+          <p> 
+             Am a sport lover<br></br>
+             My favourity team is Arsenal<br></br>
+             My Football Idol is Cristiano Ronaldo 
+            
+          </p>
         </details>
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Fun</summary>
-          <p>i like doimg fun with friends</p>
+          <p><b>jokes i like are </b><br></br>
+                Story telling <br></br>
+                xplot comedy <br></br>
+
+          </p>
         </details>
         </div>
     )
